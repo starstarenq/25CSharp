@@ -1,0 +1,37 @@
+[
+  {
+    "LABEL": 1,
+    "NAME": "낫",
+    "STAT": "추가 공격력",
+    "VALUE": 3,
+    "PRICE": 0
+  },
+  {
+    "LABEL": 2,
+    "NAME": "깨끗한 정장",
+    "STAT": "방어력",
+    "VALUE": 8,
+    "PRICE": 15
+  },
+  {
+    "LABEL": 3,
+    "NAME": "면허증",
+    "STAT": "행운",
+    "VALUE": 5,
+    "PRICE": 5
+  },
+  {
+    "LABEL": 4,
+    "NAME": "잘못된 나이프",
+    "STAT": "행운",
+    "VALUE": -30,
+    "PRICE": 0
+  },
+  {
+    "LABEL": 5,
+    "NAME": "저승사자의 낫",
+    "STAT": "추가 공격력",
+    "VALUE": 100,
+    "PRICE": 0
+  }
+]
