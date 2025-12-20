@@ -3,12 +3,21 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\25CSharp\\LEARN_CS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{70FFE2C9-EBDB-4D37-AD5A-464105033B13}|..\\RunProject\\RunProject.csproj|c:\\users\\administrator\\desktop\\25csharp\\runproject\\diamond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70FFE2C9-EBDB-4D37-AD5A-464105033B13}|..\\RunProject\\RunProject.csproj|c:\\users\\administrator\\desktop\\25csharp\\runproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{21ABE514-01E1-4BB7-923C-58FC863F7B0F}|LEARN_CS.csproj|c:\\users\\administrator\\desktop\\25csharp\\learn_cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21ABE514-01E1-4BB7-923C-58FC863F7B0F}|LEARN_CS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21ABE514-01E1-4BB7-923C-58FC863F7B0F}|LEARN_CS.csproj|c:\\users\\administrator\\desktop\\25csharp\\learn_cs\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21ABE514-01E1-4BB7-923C-58FC863F7B0F}|LEARN_CS.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70FFE2C9-EBDB-4D37-AD5A-464105033B13}|..\\RunProject\\RunProject.csproj|c:\\users\\administrator\\desktop\\25csharp\\runproject\\runproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,28 +31,73 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25CSharp\\LEARN_CS\\Item.cs",
-              "RelativeDocumentMoniker": "Item.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\25CSharp\\LEARN_CS\\Item.cs",
-              "RelativeToolTip": "Item.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T07:04:38.68Z",
+              "DocumentIndex": 4,
+              "Title": "RunProject.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25CSharp\\RunProject\\RunProject.csproj",
+              "RelativeDocumentMoniker": "..\\RunProject\\RunProject.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\25CSharp\\RunProject\\RunProject.csproj",
+              "RelativeToolTip": "..\\RunProject\\RunProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-20T05:52:56.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25CSharp\\LEARN_CS\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\25CSharp\\LEARN_CS\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAADwvx8AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T06:20:24.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25CSharp\\LEARN_CS\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\25CSharp\\LEARN_CS\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T07:04:38.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Diamond.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25CSharp\\RunProject\\Diamond.cs",
+              "RelativeDocumentMoniker": "..\\RunProject\\Diamond.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\25CSharp\\RunProject\\Diamond.cs",
+              "RelativeToolTip": "..\\RunProject\\Diamond.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:26:14.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25CSharp\\RunProject\\Program.cs",
+              "RelativeDocumentMoniker": "..\\RunProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\25CSharp\\RunProject\\Program.cs",
+              "RelativeToolTip": "..\\RunProject\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T05:51:48.012Z",
               "EditorCaption": ""
             }
           ]
