@@ -1,0 +1,20 @@
+[
+  {
+    "Speed": 6,
+    "Name": "bat",
+    "Score": -300,
+    "Y": 5
+  },
+  {
+    "Speed": 4,
+    "Name": "cart",
+    "Score": -200,
+    "Y": 6
+  },
+  {
+    "Speed": 3,
+    "Name": "rock",
+    "Score": -100,
+    "Y": 7
+  }
+]
